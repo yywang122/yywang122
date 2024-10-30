@@ -39,7 +39,7 @@
 *   
 *   
 *   
-*   [
+*   
 
 <div align="center" style="margin: 40px 0">
    <a href="">
