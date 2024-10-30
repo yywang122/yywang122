@@ -7,11 +7,6 @@
 </p>
 
 
-### Key points
-*  
-*   
-*   
-*   
 
 ## 🛠 Technical Stack
 *   ### Deep Learning & Machine Learning
@@ -27,10 +22,13 @@
     C / C++
     Python
 
-### My opensource projects
+## 💡 My opensource projects
 
 *   
 *   
 *   
 *   
+
+
+
 
