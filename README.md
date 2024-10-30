@@ -14,11 +14,18 @@
 *   
 
 ## 🛠 Technical Stack
-*   
-*   
-*   
-*   
-*   
+*   Deep Learning & Machine Learning
+    TensorFlow / Keras / TensorBoard
+    PyTorch / Catboost
+    scikit-learn
+
+*   Image Processing & Computer Vision
+    OpenCV
+    MATLAB
+
+* Programming Languages
+    C / C++
+    Python
 
 ### My opensource projects
 
