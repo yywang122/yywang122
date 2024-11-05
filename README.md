@@ -10,13 +10,11 @@
 
 ## 🛠 Technical Stack
 *   ### Deep Learning & Machine Learning
-    TensorFlow / Keras / TensorBoard
-    PyTorch / Catboost
-    scikit-learn
+    
+    PyTorch / TensorFlow / Keras / TensorBoard / scikit-learn
 
 *   ### Image Processing & Computer Vision
     OpenCV
-    MATLAB
 
 * ### Programming Languages
     C / C++
