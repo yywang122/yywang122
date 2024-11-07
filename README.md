@@ -20,6 +20,7 @@ I graduated with a degree in Electrical Engineering and am currently working as 
     Python
 
 ## 💡 My opensource projects
+Due to confidentiality agreements associated with the projects I am involved in, only a portion of the training process and results are publicly available.
 
 *   
 *   
