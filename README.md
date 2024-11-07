@@ -1,5 +1,6 @@
 # Hi, I'm Yun 👋
-.....
+I graduated with a degree in electrical engineering and currently work as a research assistant at the AI ​​Center of Chang Gung  University.
+At the Center for Artificial Intelligence, I am involved in research related to industrial and healthcare applications, focusing primarily on computer vision.
 
 
 <p align='center'>
